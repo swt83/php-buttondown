@@ -1,0 +1,11 @@
+{
+    "name": "travis/buttondown",
+    "description": "A PHP package for working w/ the ButtonDown API.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Travis\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
