@@ -9,7 +9,7 @@ class ButtonDown
      *
      * @param   string  $token
      * @param   string  $method
-    * @param   string  $type
+     * @param   string  $type
      * @param   array   $arguments
      * @param   int     $timeout
      * @return  array
